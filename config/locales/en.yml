@@ -41,6 +41,15 @@ en:
       "Hound reviews code in your GitHub pull requests. If Hound finds any
       issues it will comment inline on your pull request."
 
+  banner:
+    github_app:
+      title: "Don't see you repo in the list?"
+      description_html:
+        'We are switching to our new <a href="https://github.com/apps/hound">GitHub App</a>!
+        It allows for finer grained permissions and better security.
+        If you are missing a repo in the list below, just install the GitHub
+        app on it by clicking on the "Add GitHub repos" button.'
+
   plans:
     open_source:
       allowance: "Unlimited Public Repos"
