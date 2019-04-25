@@ -43,7 +43,7 @@ en:
 
   banner:
     github_app:
-      title: "Don't see you repo in the list?"
+      title: "Don't see your repo in the list?"
       description_html:
         'We are switching to our new <a href="https://github.com/apps/hound">GitHub App</a>!
         It allows for finer grained permissions and better security.

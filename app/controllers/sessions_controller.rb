@@ -49,6 +49,7 @@ class SessionsController < ApplicationController
 
   def create_session
     session[:remember_token] = user.remember_token
+    session[:signed_in_with_app] = true
   end
 
   def username
